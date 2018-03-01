@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/ModelDrivenGUI"]
+	path = Assets/Packages/ModelDrivenGUI
+	url = https://github.com/nobnak/ModelDrivenGUI.git
